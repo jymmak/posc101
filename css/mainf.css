@@ -1,0 +1,44 @@
+
+#box_1 {
+    position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 0;
+	left: 0;
+	background: #ee3e64;
+}
+#box_2 {
+    position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 0;
+	right: 0;
+	background: #44accf;
+}
+#box_3 {
+    position: absolute;
+	width: 200px;
+	height: 200px;
+	bottom: 0;
+	left: 0;
+	background: #b7d84b;
+}
+#box_4 {
+    position: absolute;
+	width: 200px;
+	height: 200px;
+	bottom: 0;
+	right: 0;
+	background: #ebde52;
+}
+
+
+#box_5 { 
+	position: absolute; 
+	top: 39%;
+    left: 41%;
+    width: 40px;
+    height: 40px;
+    background: orange;
+    
+}
